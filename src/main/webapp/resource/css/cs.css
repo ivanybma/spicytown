@@ -1,0 +1,15 @@
+input.left{
+    width:150px;
+    height:30em;
+    margin-left:40px;
+}
+input.right{
+    width:150px;
+    height:3em;
+    margin-left:600px;
+}
+
+.custdiv{
+    max-width: 800px;
+    width:500px;
+}
